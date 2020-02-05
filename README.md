@@ -37,3 +37,6 @@ ZIP Code API
  - More charts
  
  - Smart Watering
+ 
+ ## Deployed Site
+ https://drewsilva.github.io/Openfarm/
